@@ -16,6 +16,8 @@ else == # if anything else do this!
         # assign a string "watch more reality TV" to the variable
 question = input("Did you know that reality TV impacts your mental health, according to research?")
          if question == Yes
-         question two = input("Fabulous! Would you encourage people to watch more documentaries and the serious things we are here to solve with innovation like Climate Change and Biodiversity, or as human beings we have our own tastes whatsover even if it means not caring yet about the devastation out there? Think about empathy and cognition. I never ate steak or beef this week.")
+         question two = input("Fabulous! Would you encourage people to watch more documentaries and the serious things we are here to solve with innovation like Climate Change and Biodiversity, or as human beings we have our own tastes whatsover even if it means not caring yet about the devastation out there? Think about empathy and cognition. I never ate steak or beef this week. Watch more reality TV or Watch more documentaries")
                     if question two > watch more reality TV
-                    print("O)
+                    print("Okay Attenborough help me with this one pls")
+                    elif question two > watch more documentaries
+                    print()
