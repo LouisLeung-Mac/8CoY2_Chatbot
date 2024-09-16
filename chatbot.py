@@ -1,4 +1,4 @@
-# simple chatbot
+# CyberLouis AI on py
 
 name = input("What should I call you? ")
 chatbotName = input("Who am I? ")
@@ -17,9 +17,9 @@ for i in range(3): # do something 3 times
 #if statement, if condition is true then do code below
 # '==' = check for equality
 if name == Louis
-       print("So how does your soul feel after studying some christian theology about the layers of heaven and hell, and the possible philosophical depictions between excluding Earth?")
+       print("how does your soul feel after studying some christian theology about the layers of heaven and hell, and the possible philosophical depictions between excluding Earth? Got any info to help update my knowledge, coder?")
 elif name == Mr Davies
        print("What is one extra value or expectation you would establish for this class? I guess it's the amount of noise.")
 else == # if anything else do this!
-       print("Your definition or righteousness... is it subjective?")
+       print("You are very lucky not be be asked a")
 
