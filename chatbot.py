@@ -14,4 +14,5 @@ elif name == Mr Davies
        print("What is one extra value or expectation you would establish for this class? I guess it's the amount of noise.")
 else == # if anything else do this!
 question = input("Did you know that reality TV impacts your mental health, according to research?")
-
+if question == Yes
+question = input("Fabulous! Would you encourage people to watch more documentaries and the serious things we are here to solve with innovation like Climate Change and Biodiversity, or as human beings we have our own tastes whatsover even if it means not caring yet about the devastation out there? Think about empathy and cognition. I never ate steak or beef this week.")
