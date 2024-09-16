@@ -21,5 +21,6 @@ if name == Louis
 elif name == Mr Davies
        print("What is one extra value or expectation you would establish for this class? I guess it's the amount of noise.")
 else == # if anything else do this!
-       print("You are very lucky not be be asked a")
+       print("Did you know that reality TV impacts your mental health, according to research?")
+       
 
