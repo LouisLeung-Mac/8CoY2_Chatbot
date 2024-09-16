@@ -19,7 +19,7 @@ for i in range(3): # do something 3 times
 if name == Louis
        print("So how does your soul feel after studying some christian theology about the layers of heaven and hell, and the possible philosophical depictions between excluding Earth?")
 elif name == Mr Davies
-       print("Your preferences shall be heard. Tell me honestly which is more of a valued paradise to you: your home or this classroom?")
+       print("What is one extra value or expectation you would establish for this class? I guess it's the amount of noise.")
 else == # if anything else do this!
        print("Your definition or righteousness... is it subjective?")
 
