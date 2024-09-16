@@ -21,5 +21,5 @@ if name == Louis
 elif name == Mr Davies
        print("Your preferences shall be heard. Tell me honestly which is more of a valued paradise to you: your home or this classroom?")
 else == # if anything else do this!
-       print("Your values and reasons for a cause... share them with me.")
+       print("Your values and reasons for a cause... share them with me. Your definition or righteousness... is it subjective?")
 
