@@ -1,4 +1,4 @@
-# CyberLouis AI on py
+# CyberLouis AI for py
 
 name = input("What should I call you? ")
 chatbotName = input("Who am I? ")
@@ -20,4 +20,4 @@ question = input("Did you know that reality TV impacts your mental health, accor
                     if question two > watch more reality TV
                     print("Okay Attenborough help me with this one pls")
                     elif question two > watch more documentaries
-                    print()
+                    print("now that's the spirit! I'd suggest you to watch 'A Life On Our Planet' by David Attenborough.")
