@@ -17,7 +17,7 @@ for i in range(3): # do something 3 times
 #if statement, if condition is true then do code below
 # '==' = check for equality
 if name == Louis
-       print("Oh the creator of me, for I am only a prototype, may God seek more ideas that c")
+       print("So how does your soul feel after studying some christian theology about the layers of heaven and hell, and the possible philosophical depictions between excluding Earth?")
 elif name == Mr Davies
        print("Your preferences shall be heard. Tell me honestly which is more of a valued paradise to you: your home or this classroom?")
 else == # if anything else do this!
