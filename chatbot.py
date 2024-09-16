@@ -17,8 +17,9 @@ for i in range(3): # do something 3 times
 #if statement, if condition is true then do code below
 # '==' = check for equality
 if name == Louis
-         print("okay pls don't point the glock at me again, I don't want to trip on a bucket of grease because of you in the neighbourhood")
+       print("Oh the creator of me, for I am only a prototype, may God seek more ideas that come to you. You will eventually learn more in depth, creator. God's plan shall unravel...")
 elif name == Mr Davies
-           print("yelp")
-else name
+       print("Your preferences shall be heard. Tell me honestly which is more of a valued paradise to you: your home or this classroom?")
+else == # if anything else do this!
+       print("Your values and reasons for a cause... share them with me.")
 
