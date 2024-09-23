@@ -15,7 +15,7 @@ elif name == Mr Davies
                     if input > Yes you are right 
                     print("Lucky to know you do not allow music in this class, or some might be listening to punk, rock, party pop etc (party, definitley not for Louis) or if someone accidentally plays it on the speaker...")
                     elif input > No you are wrong
-                    print("Tell the whole class one error!")
+                    print("Interesting...")
                     else > print("Oops, gotta go!")
 else == # assign a string "Yes" to the variable
 question = input("So, got anything school-based you need to deal with lately? Yes or No?")
@@ -28,5 +28,5 @@ question = input("So, got anything school-based you need to deal with lately? Ye
                     print("Hmm, you've got to be more specific with this. Oops, gotta go!")
                     else > print("You have reached your token limit.")
          elif question > No
-         print("Lucky you. Bad to know Louis struggles with procrastination often.")
+         print("Lucky you. Bad to know Louis struggles with procrastination often. Do you procrastinate?")
          else > print("You have reached your token limit.")
