@@ -23,3 +23,4 @@ input("choose one note out of these eg. A4: C3, E3, G3, A3, C4, C4(female), E4, 
       print("Soprano")
       elif input == E5
       print("Sopranino?")
+      else = print("An error occured. Please try the mentioned notes.")
