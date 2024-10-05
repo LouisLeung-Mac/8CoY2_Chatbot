@@ -15,7 +15,7 @@ input("choose one note out of these eg. A4: C3, E3, G3, A3, C4, C4(female), E4, 
       print("Contralto?")
       elif input == E4
       print("Alto")
-      elif input == E4(male)
+      elif input == E4(Male)
       print("Countertenor?")
       elif input == A4
       print("Mezzo Soprano")
