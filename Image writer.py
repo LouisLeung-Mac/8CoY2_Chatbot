@@ -6,10 +6,15 @@ img.write("P6") #magic number
 img.write("640 480") #width and height
 img.write("255") #Max colour depth
 
-for pisxel in range(640):
+# Fill all pixels in red 
+' ' '
+for pixel in range(640):
     for pixer in range(640): 
         img.write("255 0 0 ")
    
 
-q  img.close()
+img.close()
     
+# Challenges:
+# 1. fill all pixels with blue
+# 2. fil all pixels with greem
